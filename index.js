@@ -7,10 +7,17 @@ var cors = require('cors')
 app.use(cors())
 
 
+const courses = require('./data/courses.json');
+
 
 app.get('/', (req, res) => {
     res.send('Learning Bangladesh is running');
 });
+
+
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
 
 
 

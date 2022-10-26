@@ -1,0 +1,162 @@
+[
+    {
+        "id": "a1b2c3d4e1",
+        "name": "Data Science Specialization",
+        "duration": "6 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "01",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Kenneth M. Carrillo"
+    },
+    {
+        "id": "a1b2c3d4e2",
+        "name": "Machine Learning Specialization",
+        "duration": "6 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "01",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Patricia J. Bailey"
+    },
+    {
+        "id": "a1b2c3d4e3",
+        "name": "Web Development Specialization",
+        "duration": "6 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "01",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Cynthia J. Grant"
+    },
+    {
+        "id": "a1b2c3d4e4",
+        "name": "Python for Beginners",
+        "duration": "6 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "05",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Brian P. Glass"
+    },
+    {
+        "id": "a1b2c3d4e5",
+        "name": "Javascript for Beginners",
+        "duration": "6 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "05",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Dara L. McElwain"
+    },
+    {
+        "id": "a1b2c3d4e6",
+        "name": "Fundamentals of Deep Lerning",
+        "duration": "6 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "04",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Jane T. Diaz"
+    },
+    {
+        "id": "a1b2c3d4e7",
+        "name": "Practical Statistics for Data Scientists",
+        "duration": "2 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "06",
+        "rating": {
+            "number": 4.0,
+            "badge": "Good"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Juan S. Ramos"
+    },
+    {
+        "id": "a1b2c3d4e8",
+        "name": "Machine Learning",
+        "duration": "3 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Nancy A. Acosta"
+    },
+    {
+        "id": "a1b2c3d4e9",
+        "name": "Data Science for Beginners",
+        "duration": "4 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Good"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "Roland D. Patterson"
+    },
+    {
+        "id": "a1b2c3d4e10",
+        "name": "Mathematics for Data Science",
+        "duration": "1.5 months",
+        "img": "./../assets/data_science_specialization.jpeg",
+        "category_id": "07",
+        "rating": {
+            "number": 4.0,
+            "badge": "Good"
+        },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "instructor": "James J. Martinez"
+    }
+]

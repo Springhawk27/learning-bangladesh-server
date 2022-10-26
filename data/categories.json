@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "Specialization"
+    },
+    {
+        "id": "02",
+        "name": "Web Development"
+    },
+    {
+        "id": "03",
+        "name": "Data Science"
+    },
+    {
+        "id": "04",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "05",
+        "name": "Programming Language"
+    },
+    {
+        "id": "06",
+        "name": "Statistics"
+    },
+    {
+        "id": "07",
+        "name": "Mathematics"
+    },
+    {
+        "id": "08",
+        "name": "All Courses"
+    }
+]
