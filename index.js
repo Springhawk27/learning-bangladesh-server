@@ -22,6 +22,30 @@ app.get('/categories', (req, res) => {
 
 app.get('/courses', (req, res) => {
     res.send(courses);
+});
+
+
+
+app.get('/course/:id', (req, res) => {
+    // console.log(req.params.id)
+    const id = req.params.id;
+
+    const selectedCourse = course.find(course => course.id === id);
+    res.send(selectedCourse);
+
+});
+
+app.get('/category/:id', (req, res) => {
+    // console.log(req.params.id)
+    const id = req.params.id;
+    if (id === '08') {
+        res.send(courses)
+    }
+    else {
+        const category_courses = courses.filter(courses => courses.category_id === id);
+        res.send(category_courses);
+    }
+
 })
 
 
