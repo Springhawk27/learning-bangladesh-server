@@ -14,7 +14,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Kenneth M. Carrillo"
+        "instructor": "Kenneth M. Carrillo",
+        "description": "This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material. "
     },
     {
         "id": "a1b2c3d4e2",
@@ -31,7 +32,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Patricia J. Bailey"
+        "instructor": "Patricia J. Bailey",
+        "description": "This course provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)"
     },
     {
         "id": "a1b2c3d4e3",
@@ -48,7 +50,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Cynthia J. Grant"
+        "instructor": "Cynthia J. Grant",
+        "description": "The first two courses in this Specialization cover front-end frameworks: Bootstrap  and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript."
     },
     {
         "id": "a1b2c3d4e4",
@@ -65,7 +68,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Brian P. Glass"
+        "instructor": "Brian P. Glass",
+        "description": "Go from Beginner to Advanced in Python Programming by learning all of the basics to Object Orientated Programming."
     },
     {
         "id": "a1b2c3d4e5",
@@ -82,7 +86,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Dara L. McElwain"
+        "instructor": "Dara L. McElwain",
+        "description": "Learn javascript online and supercharge your web design with this Javascript for beginners training course."
     },
     {
         "id": "a1b2c3d4e6",
@@ -99,7 +104,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Jane T. Diaz"
+        "instructor": "Jane T. Diaz",
+        "description": "In this course, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more."
     },
     {
         "id": "a1b2c3d4e7",
@@ -116,7 +122,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Juan S. Ramos"
+        "instructor": "Juan S. Ramos",
+        "description": "This course covers  Descriptive Statistics, Sampling and Randomized Controlled Experiments, Probability, Sampling Distributions and the Central Limit Theorem, Regression, Common Tests of Significance, Resampling, Multiple Comparisons."
     },
     {
         "id": "a1b2c3d4e8",
@@ -133,7 +140,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Nancy A. Acosta"
+        "instructor": "Nancy A. Acosta",
+        "description": "Learn to create Machine Learning Algorithms in Python and R from the Data Science expert. Build an army of powerful Machine Learning models and know how to combine them to solve any problem. Code templates included."
     },
     {
         "id": "a1b2c3d4e9",
@@ -150,7 +158,8 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "Roland D. Patterson"
+        "instructor": "Roland D. Patterson",
+        "description": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning"
     },
     {
         "id": "a1b2c3d4e10",
@@ -167,6 +176,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "instructor": "James J. Martinez"
+        "instructor": "James J. Martinez",
+        "description": "Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time. "
     }
 ]
