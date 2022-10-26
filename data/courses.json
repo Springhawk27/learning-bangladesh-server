@@ -22,7 +22,7 @@
         "duration": "6 months",
         "img": "https://i.ibb.co/C2V33Yk/machine-learning-specialization.jpg",
         "category_id": "01",
-        "price": 199.99,
+        "price": 149.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
@@ -35,11 +35,11 @@
     },
     {
         "id": "a1b2c3d4e3",
-        "name": "Web Development Specialization",
+        "name": "Full Stack Web Development",
         "duration": "6 months",
         "img": "https://i.ibb.co/yybFgbs/web-development-specialization.png",
-        "category_id": "01",
-        "price": 199.99,
+        "category_id": "02",
+        "price": 149.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
@@ -56,7 +56,7 @@
         "duration": "6 months",
         "img": "https://i.ibb.co/mHFzGw9/python.png",
         "category_id": "05",
-        "price": 199.99,
+        "price": 69.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
@@ -73,7 +73,7 @@
         "duration": "6 months",
         "img": "https://i.ibb.co/QNCFxvj/javascript.jpg",
         "category_id": "05",
-        "price": 199.99,
+        "price": 69.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
@@ -90,7 +90,7 @@
         "duration": "6 months",
         "img": "https://i.ibb.co/gDBQMJw/deep-learning.jpg",
         "category_id": "04",
-        "price": 199.99,
+        "price": 99.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
@@ -107,7 +107,7 @@
         "duration": "2 months",
         "img": "https://i.ibb.co/KwfsCKT/statistics.jpg",
         "category_id": "06",
-        "price": 199.99,
+        "price": 29.99,
         "rating": {
             "number": 4.0,
             "badge": "Good"
@@ -124,7 +124,7 @@
         "duration": "3 months",
         "img": "https://i.ibb.co/dW0pMHq/machine-learning.jpg",
         "category_id": "04",
-        "price": 199.99,
+        "price": 39.99,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -141,7 +141,7 @@
         "duration": "4 months",
         "img": "https://i.ibb.co/rcxZcPb/data-science.jpg",
         "category_id": "03",
-        "price": 199.99,
+        "price": 79.99,
         "rating": {
             "number": 4.0,
             "badge": "Good"
@@ -158,7 +158,7 @@
         "duration": "1.5 months",
         "img": "https://i.ibb.co/BCR05QR/mathematics.jpg",
         "category_id": "07",
-        "price": 199.99,
+        "price": 29.99,
         "rating": {
             "number": 4.0,
             "badge": "Good"
