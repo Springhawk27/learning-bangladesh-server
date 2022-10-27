@@ -10,21 +10,17 @@ app.use(cors())
 const courses = require('./data/courses.json');
 const categories = require('./data/categories.json')
 
-
 app.get('/', (req, res) => {
-    res.send('Learning Bangladesh is running');
+    res.send('Learning Bangladesh is running online');
 });
 
 app.get('/categories', (req, res) => {
     res.send(categories);
 })
 
-
 app.get('/courses', (req, res) => {
     res.send(courses);
 });
-
-
 
 app.get('/course/:id', (req, res) => {
     // console.log(req.params.id)
@@ -32,6 +28,14 @@ app.get('/course/:id', (req, res) => {
 
     const selectedCourse = courses.find(course => course.id === id);
     res.send(selectedCourse);
+
+});
+app.get('/checkout/:id', (req, res) => {
+    // console.log(req.params.id)
+    const id = req.params.id;
+
+    const checkoutCourse = courses.find(course => course.id === id);
+    res.send(checkoutCourse);
 
 });
 
@@ -52,5 +56,5 @@ app.get('/category/:id', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log('Learning Bangladesh  Server is Running on port ', port);
+    console.log('Learning Bangladesh Server is Running on port ', port);
 })
